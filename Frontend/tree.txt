@@ -1,0 +1,64 @@
+.
+├── README.md
+├── app
+│   ├── (tabs)
+│   │   ├── _layout.tsx
+│   │   ├── history.tsx
+│   │   ├── index.tsx
+│   │   ├── offer-ride.tsx
+│   │   ├── profile.tsx
+│   │   ├── report
+│   │   │   ├── _layout.tsx
+│   │   │   ├── create-incident.tsx
+│   │   │   └── index.tsx
+│   │   ├── rides.tsx
+│   │   └── sos.tsx
+│   ├── +not-found.tsx
+│   ├── _layout.tsx
+│   ├── auth
+│   │   ├── _layout.tsx
+│   │   ├── login.tsx
+│   │   ├── onboarding.tsx
+│   │   ├── signup.tsx
+│   │   └── welcome.tsx
+│   ├── index.tsx
+│   └── notificationService.ts
+├── app.json
+├── assets
+│   ├── fonts
+│   │   ├── Inter-Bold.ttf
+│   │   ├── Inter-Medium.ttf
+│   │   ├── Inter-Regular.ttf
+│   │   └── Inter-SemiBold.ttf
+│   └── images
+│       ├── adaptive-icon.png
+│       ├── background-image.png
+│       ├── emoji1.png
+│       ├── emoji2.png
+│       ├── emoji3.png
+│       ├── emoji4.png
+│       ├── emoji5.png
+│       ├── emoji6.png
+│       ├── favicon.png
+│       ├── icon.png
+│       └── splash-icon.png
+├── components
+│   ├── AnimatedPressable.tsx
+│   ├── Logo.tsx
+│   ├── MapView.web.tsx
+│   ├── Rides
+│   │   ├── AvailableRides.tsx
+│   │   ├── CreateRides.tsx
+│   │   ├── MyRides.tsx
+│   │   └── RideCard.tsx
+│   ├── Toast.tsx
+│   └── ToastProvider.tsx
+├── constants
+│   └── Colors.tsx
+├── expo-env.d.ts
+├── package-lock.json
+├── package.json
+├── tree.txt
+└── tsconfig.json
+
+11 directories, 51 files

@@ -1,0 +1,501 @@
+[
+    {
+      "name": "Khilkhet Thana",
+      "address": "Khilkhet, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373174",
+        "Operations Officer": "01191005544",
+        "Duty Officer": "01199883611",
+        "Landline": "8919364"
+      }
+    },
+    {
+      "name": "Kafrul Thana",
+      "address": "Kafrul, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373191",
+        "Operations Officer": "01191004488",
+        "Duty Officer": "01199864022",
+        "Landline": "9871771"
+      }
+    },
+    {
+      "name": "Dhanmondi Thana",
+      "address": "Dhanmondi, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373126",
+        "Operations Officer": "01191002200",
+        "Duty Officer": "01199883622",
+        "Landline": "8631941"
+      }
+    },
+    {
+      "name": "Mohammadpur Thana",
+      "address": "Mohammadpur, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373182",
+        "Operations Officer": "01191004422",
+        "Duty Officer": "01199883742",
+        "Landline": "9119960"
+      }
+    },
+    {
+      "name": "Sutrapur Thana",
+      "address": "Sutrapur, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373143",
+        "Operations Officer": "01191003300",
+        "Duty Officer": "01199883731",
+        "Landline": "7116233"
+      }
+    },
+    {
+      "name": "Jatrabari Thana",
+      "address": "Jatrabari, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373146",
+        "Operations Officer": "01191003333",
+        "Duty Officer": "01199883729",
+        "Landline": "7546244"
+      }
+    },
+    {
+      "name": "Bimanbandar Thana",
+      "address": "Bimanbandar, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373162",
+        "Operations Officer": "01191005566",
+        "Duty Officer": "01191001166",
+        "Landline": "8951281"
+      }
+    },
+    {
+      "name": "Gulshan Thana",
+      "address": "Gulshan, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373171",
+        "Operations Officer": "01191005511",
+        "Duty Officer": "01191001144",
+        "Landline": "9895826"
+      }
+    },
+    {
+      "name": "Uttara Pashchim Thana",
+      "address": "Uttara Pashchim, Dhaka",
+      "contacts": {
+        "DC": "01713373156",
+        "ADC": "01713373157",
+        "AC (Uttara Zone)": "01713373160",
+        "AC (Bimanbandar Zone)": "01713398585"
+      }
+    },
+    {
+      "name": "Mugda Thana",
+      "address": "Mugda, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": {
+          "Phone": "7549722",
+          "Mobile": "01769058061"
+        },
+        "Police Inspector (Investigation)": {
+          "Phone": "7549722",
+          "Mobile": "01769058062"
+        },
+        "Duty Officer": {
+          "Phone": "7549722",
+          "DMP": "2490",
+          "DMP (Ex)": "999"
+        }
+      }
+    },
+    {
+      "name": "Rupnagar Thana",
+      "address": "Rupnagar, Dhaka",
+      "contacts": {
+        "DC": "01713373184",
+        "ADC": "01713373185",
+        "AC (Mirpur Zone)": "01713373187",
+        "AC (Pallabi Zone)": "01713398562"
+      }
+    },
+    {
+      "name": "Bhashantek Thana",
+      "address": "Bhashantek, Dhaka",
+      "contacts": {
+        "DC": "01713373184",
+        "ADC": "01713373185",
+        "AC (Mirpur Zone)": "01713373187",
+        "AC (Pallabi Zone)": "01713398562"
+      }
+    },
+    {
+      "name": "Bhatara Thana",
+      "address": "Bhatara, Dhaka",
+      "contacts": {
+        "DC": "01713373166",
+        "ADC": "01713373167",
+        "AC (Gulshan Zone)": "01713373169",
+        "AC (Cantonment Zone)": "01713398342"
+      }
+    },
+    {
+      "name": "Banani Thana",
+      "address": "Banani, Dhaka",
+      "contacts": {
+        "DC": "01713373166",
+        "ADC": "01713373167",
+        "AC (Gulshan Zone)": "01713373169",
+        "AC (Cantonment Zone)": "01713398342"
+      }
+    },
+    {
+      "name": "Wari Thana",
+      "address": "Wari, Dhaka",
+      "contacts": {
+        "DC": "01713373138",
+        "ADC": "01713373139",
+        "AC (Demra Zone)": "01713373141",
+        "AC (Wari Zone)": "01713398340"
+      }
+    },
+    {
+      "name": "Shahjahanpur Thana",
+      "address": "Shahjahanpur, Dhaka",
+      "contacts": {
+        "DC": "01713373147",
+        "ADC": "01713373148",
+        "AC (Motijheel Zone)": "01713373150",
+        "AC (Khilgaon Zone)": "01713398520"
+      }
+    },
+    {
+      "name": "Sher-e-Bangla Nagar Thana",
+      "address": "Sher-e-Bangla Nagar, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713398335",
+        "Operations Officer": "01191004455",
+        "Duty Officer": "01199867888",
+        "Landline": "9124154"
+      }
+    },
+    {
+      "name": "Mirpur Model Thana",
+      "address": "Mirpur, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373189",
+        "Operations Officer": "01191004466",
+        "Duty Officer": "01199883734",
+        "Landline": "9001001"
+      }
+    },
+    {
+      "name": "Darus Salam Thana",
+      "address": "Darus Salam, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713398334",
+        "Operations Officer": "01191004499",
+        "Duty Officer": "01199802025",
+        "Landline": "8032333"
+      }
+    },
+    {
+      "name": "Dakshinkhan Thana",
+      "address": "Dakshinkhan, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373165",
+        "Operations Officer": "01191005599",
+        "Duty Officer": "01191001188",
+        "Landline": "8931777"
+      }
+    },
+    {
+      "name": "Uttarkhan Thana",
+      "address": "Uttarkhan, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373164",
+        "Operations Officer": "01191005588",
+        "Duty Officer": "01191001177",
+        "Landline": "8931888"
+      }
+    },
+    {
+      "name": "Turag Thana",
+      "address": "Turag, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373163",
+        "Operations Officer": "01191005577",
+        "Duty Officer": "01199883645",
+        "Landline": "8914664"
+      }
+    },
+    {
+      "name": "Uttara Model Thana",
+      "address": "Uttara, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373161",
+        "Operations Officer": "01191005555",
+        "Duty Officer": "01199883740",
+        "Landline": "8914126"
+      }
+    },
+    {
+      "name": "Cantonment Thana",
+      "address": "Cantonment, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373172",
+        "Operations Officer": "01191005522",
+        "Duty Officer": "01199883739",
+        "Landline": "8712350"
+      }
+    },
+    {
+      "name": "Badda Thana",
+      "address": "Badda, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373173",
+        "Operations Officer": "01191005533",
+        "Duty Officer": "01191001155",
+        "Landline": "9882652"
+      }
+    },
+    {
+      "name": "Pallabi Thana",
+      "address": "Pallabi, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373190",
+        "Operations Officer": "01191004477",
+        "Duty Officer": "01199883735",
+        "Landline": "9015922"
+      }
+    },
+    {
+      "name": "Shah Ali Thana",
+      "address": "Shah Ali, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373192",
+        "Operations Officer": "01191005500",
+        "Duty Officer": "01199883625",
+        "Landline": "8060555"
+      }
+    },
+    {
+      "name": "Tejgaon Industrial Area Thana",
+      "address": "Tejgaon Industrial Area, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373181",
+        "Operations Officer": "01191004433",
+        "Duty Officer": "01199867474",
+        "Landline": "8836472"
+      }
+    },
+    {
+      "name": "Tejgaon Thana",
+      "address": "Tejgaon, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373180",
+        "Operations Officer": "01191004411",
+        "Duty Officer": "01199883741",
+        "Landline": "9119467"
+      }
+    },
+    {
+      "name": "Rampura Thana",
+      "address": "Rampura, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713398526",
+        "Operations Officer": "01191004400",
+        "Duty Officer": "01199883738",
+        "Landline": "7290999"
+      }
+    },
+    {
+      "name": "Sabujbagh Thana",
+      "address": "Sabujbagh, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373153",
+        "Operations Officer": "01191003377",
+        "Duty Officer": "01199883736",
+        "Landline": "7219988"
+      }
+    },
+    {
+      "name": "Kadamtali Thana",
+      "address": "Kadamtali, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713398333",
+        "Operations Officer": "01191003344",
+        "Duty Officer": "01199883732",
+        "Landline": "7547755"
+      }
+    },
+    {
+      "name": "Chakbazar Thana",
+      "address": "Chakbazar, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713398337",
+        "Operations Officer": "01191002299",
+        "Duty Officer": "01199883724",
+        "Landline": "7313966"
+      }
+    },
+    {
+      "name": "Kamrangirchar Thana",
+      "address": "Kamrangirchar, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373137",
+        "Operations Officer": "01191002277",
+        "Duty Officer": "01199883725",
+        "Landline": "7320323"
+      }
+    },
+    {
+      "name": "Kotwali Thana",
+      "address": "Kotwali, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373135",
+        "Operations Officer": "01191002255",
+        "Duty Officer": "01199883646",
+        "Landline": "7116255"
+      }
+    },
+    {
+      "name": "Lalbagh Thana",
+      "address": "Lalbagh, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373134",
+        "Operations Officer": "01191002266",
+        "Duty Officer": "01199883721",
+        "Landline": "9660105"
+      }
+    },
+    {
+      "name": "Kalabagan Thana",
+      "address": "Kalabagan, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713398339",
+        "Operations Officer": "01191002244",
+        "Duty Officer": "01199883628",
+        "Landline": "9665254"
+      }
+    },
+    {
+      "name": "Shahbagh Thana",
+      "address": "Shahbagh, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373127",
+        "Operations Officer": "01191002222",
+        "Duty Officer": "01199883626",
+        "Landline": "9676699"
+      }
+    },
+    {
+      "name": "Motijheel Thana",
+      "address": "Motijheel, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01199883726",
+        "Operations Officer": "01191003366",
+        "Duty Officer": "01713373152",
+        "Landline": "9571000"
+      }
+    },
+    {
+      "name": "Khilgaon Thana",
+      "address": "Khilgaon, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373154",
+        "Operations Officer": "01191003388",
+        "Duty Officer": "01199883728",
+        "Landline": "7219090"
+      }
+    },
+    {
+      "name": "Hazaribagh Thana",
+      "address": "Hazaribagh, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373136",
+        "Operations Officer": "01191002211",
+        "Duty Officer": "01199883722",
+        "Landline": "9669900"
+      }
+    },
+    {
+      "name": "Ramna Model Thana",
+      "address": "Ramna, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373125",
+        "Operations Officer": "01191001199",
+        "Duty Officer": "01199883720",
+        "Landline": "9350468"
+      }
+    },
+    {
+      "name": "Demra Thana",
+      "address": "Demra, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373144",
+        "Operations Officer": "01191003311",
+        "Duty Officer": "01199883727",
+        "Landline": "7501155"
+      }
+    },
+    {
+      "name": "Paltan Model Thana",
+      "address": "Paltan, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373155",
+        "Operations Officer": "01191003399",
+        "Duty Officer": "01199883737",
+        "Landline": "9360802"
+      }
+    },
+    {
+      "name": "Bangshal Thana",
+      "address": "Bangshal, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713398336",
+        "Operations Officer": "01191002288",
+        "Duty Officer": "01199883723",
+        "Landline": "9565700"
+      }
+    },
+    {
+      "name": "New Market Thana",
+      "address": "New Market, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373128",
+        "Operations Officer": "01191002233",
+        "Duty Officer": "01199883627",
+        "Landline": "8631942"
+      }
+    },
+    {
+      "name": "Shyampur Thana",
+      "address": "Shyampur, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373145",
+        "Operations Officer": "01191003322",
+        "Duty Officer": "01199883730",
+        "Landline": "7440691"
+      }
+    },
+    {
+      "name": "Gendaria Thana",
+      "address": "Gendaria, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713398331",
+        "Operations Officer": "01191003355",
+        "Duty Officer": "01199883733",
+        "Landline": "7453294"
+      }
+    },
+    {
+      "name": "Adabar Thana",
+      "address": "Adabar, Dhaka",
+      "contacts": {
+        "Officer-in-Charge": "01713373183",
+        "Operations Officer": "01191004444",
+        "Duty Officer": "011998867799",
+        "Landline": "9133265"
+      }
+    }
+  ]
